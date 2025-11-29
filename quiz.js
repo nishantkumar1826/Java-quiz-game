@@ -1,4 +1,4 @@
-// JavaScript Console Quiz Game with custom natural questions
+// JavaScript quiz game
 
 const quiz = [
   { question: "How many days are there in a leap year?", answer: "366" },
